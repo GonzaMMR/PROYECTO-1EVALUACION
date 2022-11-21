@@ -1,0 +1,12 @@
+IDdireccion=1, pais=portugal, calle=opro, portal=33, piso=2
+IDdireccion=2, pais=inglaterra, calle=pablo casals, portal=22, piso=2
+IDdireccion=3, pais=algeria, calle=cancin, portal=33, piso=2
+IDdireccion=4, pais=marruecos, calle=cancun, portal=23, piso=2
+IDdireccion=5, pais=canada, calle=otawa, portal=44, piso=23
+IDdireccion=6, pais=porytugal, calle=ffg, portal=22, piso=1
+IDdireccion=7, pais=0, calle=0, portal=0, piso=0
+IDdireccion=8, pais=portugal, calle=fffffff, portal=34, piso=2
+IDdireccion=9, pais=portugal, calle=gfffss, portal=22, piso=2
+IDdireccion=10, pais=canada, calle=wall street, portal=22, piso=2
+IDdireccion=11, pais=eeuu, calle=new york, portal=11, piso=2
+IDdireccion=12, pais=colmbia, calle=wall street, portal=22, piso=2

@@ -1,0 +1,3 @@
+IDoferta=0, precio=23.0, fechaInicio=2022-02-23, fechaFin=2022-03-23, ALOJAMIENTO_IDalojamiento=4
+IDoferta=3, precio=22.0, fechaInicio=2022-01-12, fechaFin=2023-01-02, ALOJAMIENTO_IDalojamiento=3
+IDoferta=4, precio=23.0, fechaInicio=2022-02-23, fechaFin=2022-03-23, ALOJAMIENTO_IDalojamiento=4

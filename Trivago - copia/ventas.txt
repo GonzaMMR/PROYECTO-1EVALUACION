@@ -1,0 +1,4 @@
+Vender{IDventa=0, OFERTA_IDoferta=4, EMPRESA_IDempresa=2}
+Vender{IDventa=1, OFERTA_IDoferta=3, EMPRESA_IDempresa=2}
+Vender{IDventa=3, OFERTA_IDoferta=4, EMPRESA_IDempresa=2}
+Vender{IDventa=2, OFERTA_IDoferta=3, EMPRESA_IDempresa=3}

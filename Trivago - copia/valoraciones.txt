@@ -1,0 +1,2 @@
+Valoracion{IDvaloracion=null, descripcion=muy buena, nota=7, ALOJAMIENTO_IDalojamiento=3, PERSONA_ID=16}
+Valoracion{IDvaloracion=5, descripcion=muy buena, nota=7, ALOJAMIENTO_IDalojamiento=3, PERSONA_ID=16}

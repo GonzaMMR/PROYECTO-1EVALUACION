@@ -1,0 +1,3 @@
+Empresa{IDempresa=2, nombre=BOOKING, telefono=644875241}
+Empresa{IDempresa=3, nombre=gggggggg, telefono=611425875}
+Empresa{IDempresa=4, nombre=booking.com, telefono=644785874}

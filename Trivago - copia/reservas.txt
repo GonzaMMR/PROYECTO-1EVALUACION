@@ -1,0 +1,2 @@
+Reserva{idRESERVA=null, OFERTA_IDoferta=4, PERSONA_ID=16, nombre=reservapepe, fechaReserva=2022-02-23}
+Reserva{idRESERVA=10, OFERTA_IDoferta=4, PERSONA_ID=16, nombre=reservapepe, fechaReserva=2022-02-23}

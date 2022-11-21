@@ -1,0 +1,2 @@
+ID=null, nombre=pepe, apellidos=pppppppppppppp, email=gonmar@gmail.com, telefono=677412547, contrasenia=pepe1, tarjeta=9874563214578547}
+ID=16, nombre=pepe, apellidos=pppppppppppppp, email=gonmar@gmail.com, telefono=677412547, contrasenia=pepe1, tarjeta=9874563214578547}

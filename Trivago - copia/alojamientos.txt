@@ -1,0 +1,5 @@
+Alojamiento{IDalojamiento=1, tipo=hotel, nombre=cr7, descripcion=espacioso, bonitos vistas 5 estrellas, espacio=5, IDdireccion=1}
+Alojamiento{IDalojamiento=2, tipo=apartamento, nombre=pelota, descripcion=muy vrillante, espacio=2, IDdireccion=2}
+Alojamiento{IDalojamiento=3, tipo=hotel, nombre=folqq, descripcion=mediano grande, espacio=3, IDdireccion=3}
+Alojamiento{IDalojamiento=4, tipo=hotel, nombre=cr7pestanja, descripcion=fffffffffffff, espacio=3, IDdireccion=8}
+Alojamiento{IDalojamiento=5, tipo=hotel, nombre=colmbia vives, descripcion=dddddddddddd, espacio=2, IDdireccion=2}
